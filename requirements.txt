@@ -1,0 +1,9 @@
+matplotlib==3.8.4
+numpy==2.2.3
+pandas==2.2.3
+scikit_learn==1.4.2
+seaborn==0.13.2
+SimpleITK==2.3.1
+SimpleITK==2.4.1
+tensorflow==2.10.1
+tqdm==4.66.4
